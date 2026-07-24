@@ -458,6 +458,7 @@ See [how to contribute](/CONTRIBUTING.md)
 | Name | Language| Channel|
 |------|---------|--------|
 | [Curso de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | Portuguese | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) 
+| [JavaScript para Principiantes](https://certmundo.com/es-mx/curso/javascript-para-principiantes) | Spanish | [Certmundo](https://certmundo.com)
 
 
 ### PHP
@@ -476,7 +477,8 @@ See [how to contribute](/CONTRIBUTING.md)
 | [Curso de Python - Módulo Tkinter](https://www.youtube.com/watch?v=kSQDp20eeqE&list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE) | Portuguese | [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg) 
 | [Curso de Python - Programação](https://www.youtube.com/watch?v=wpqkZJ10Gmo&list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2) | Portuguese | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos) 
 | [Curso em vídeo - Python](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | Portuguese | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) 
-| [Curso Python 300](https://www.youtube.com/watch?v=I5-LNy_R-0I&list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893) | Portuguese | [Marcos Castro](https://www.youtube.com/channel/UCdew-vmhSLvFJRck_hYZN8A) 
+| [Curso Python 300](https://www.youtube.com/watch?v=I5-LNy_R-0I&list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893) | Portuguese | [Marcos Castro](https://www.youtube.com/channel/UCdew-vmhSLvFJRck_hYZN8A)
+| [Curso de Python desde Cero para Principiantes](https://certmundo.com/es-mx/curso/python-basico) | Spanish | [Certmundo](https://certmundo.com) |
 
 
 #### Django
